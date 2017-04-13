@@ -1,0 +1,93 @@
+Package: com.cokepokes.Masterball
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.cokepokes.Masterball_1.1_iphoneos-arm.deb
+Size: 11058
+MD5sum: 8c4291cddde567556cdd1411a6513900
+SHA1: 70c0cb766e2ea569d198bad6049bdbf2d2e30731
+SHA256: e8b771c8a0a856c642f595076add14c98b5a91f2982934269e67b166b3e6dd4d
+Section: Tweaks
+Priority: optional
+Description: Fixes the startup crash in the Pokemon Go app & hides jailbroken state
+Author: CokePokes
+Name: Masterball
+
+Package: com.cokepokes.SmartGlass-Clip-Saver
+Version: 1.0-2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: deb/com.cokepokes.SmartGlass-Clip-Saver_1.0-2_iphoneos-arm.deb
+Size: 226870
+MD5sum: 7d02417980a83955ef778def1982a7a7
+SHA1: c6385a5c52e9c940d5b35f2ac53e5231eee7777e
+SHA256: bc3d5dde10c8ef7941f8ea38bbc4958ebee589500858a0a631b7d3a46493266b
+Section: Tweaks
+Priority: optional
+Description: Download & save SmartGlass game clips to camera roll.
+Tag: purpose::extension
+Author: CokePokes <cokepokes@gmail.com>
+Dev: cokepokes
+Name: SmartGlass Clip Saver
+
+Package: com.cokepokes.Snapchat-Volume-Statusbar
+Version: 0.7-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: deb/com.cokepokes.Snapchat-Volume-Statusbar_0.7-1_iphoneos-arm.deb
+Size: 23828
+MD5sum: 9cc1e98076c8b780e3d45ce173f5bb3b
+SHA1: d8cf81f4e003bac9f3fb838e385ea7545cb19231
+SHA256: 84b187cdccef6970d727affd8c941215d4d52db2b1eed3d74da24ae51dbe2c46
+Section: Tweaks
+Priority: optional
+Description: A fucking awesome mobile substrate tweak!
+Author: CokePokes
+Name: Snapchat Volume Statusbar
+
+Package: com.cokepokes.libphantom
+Version: 1.0.2-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 23111
+Depends: firmware (>= 7.0)
+Filename: deb/com.cokepokes.libphantom_1.0.2-1_iphoneos-arm.deb
+Size: 11920338
+MD5sum: ff0ba5d9a0a64875f437b85893a6fc61
+SHA1: 46b30299d2ef20c4d80d2b4374362fc6278fa879
+SHA256: 5e23f043b4845d61627fd736771e500dd75ca5acfb3c72436c004c975ea23241
+Section: Development
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
+Description: Developer Libraries for Phantom tweak
+Tag: role::developer, purpose::library, cydia::obsolete
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libphantomDp
+Dev: cokepokes
+Name: libPhantom
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cokepokes.phantom
+Version: 5.3.3-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: com.n00neimp0rtant.picarchiver, com.thomasfinch.snapchatsound, com.timecompiler.snapchatlog, com.perascotta.snapmoretext, com.bengerard.snapselect, com.ridan.allsnap, com.drp.snapmaster, com.skylerk99.snapprefs, com.abcapps.snapplus, com.jonluca.sclenses4all, com.cokepokes.libphantom
+Replaces: com.cokepokes.phlite
+Filename: deb/com.cokepokes.phantom_5.3.3-2_iphoneos-arm.deb
+Size: 14171642
+MD5sum: 77fc32ce75cfd86c1bb69526f8607dfa
+SHA1: 19439bcfd9305b3e7b3d05389a7b9322b67813fe
+SHA256: ecac2ec95d11317f52dac5d6bc70738692764e4e29fe969a0eb22385c58da324
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Description: Phantom is in the process of being fully updated to bypass Snapchat’s tweak detection. Currently this is the only Snapchat tweak that works without triggering a connection error or ban!
+Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
+Author: CokePokes <cokepokes@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=phantomDp
+Dev: cokepokes
+Icon: file:///Library/PreferenceBundles/phlite.bundle/phantomIcon@2x.png
+Name: Phantom (Lite) for Snapchat
+Sponsor: thebigboss.org <http://thebigboss.org>
+
